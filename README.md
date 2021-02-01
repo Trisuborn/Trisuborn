@@ -2,4 +2,6 @@
 
 ### Embedded Linux and IoT
 
-🌱 I’m currently learning embedded linux.
+- 🏫 I’m currently learning embedded linux.
+- 🛫 My personal blog : [Trisuborn personal blog](https://trisuborn.github.io/)
+- 🔶 My CSDN blog     : [Trisuborn CSDN blog](https://blog.csdn.net/qq_26106317)
